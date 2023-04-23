@@ -4,7 +4,7 @@
 
 This is an example of a test program meant to display "Hello World!" to the console. It's purpose is to gain a basic understanding of formatting projects in github.
 
-[Video](http://youtube.link.goes.here)
+[Video](https://youtu.be/V2jMA0x0TJc)
 
 # Development Environment
 
